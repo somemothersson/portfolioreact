@@ -1,93 +1,118 @@
 [
-    {
-      "id": 1,
-      "name": "Odyssey",
-      "image": "/images/homer1.jpg",
-      "description": "A MERN App w/ JSONWebtoken Authentication to Assist new Immigrants to Chicago: ReactJS, Redux, Unsplash, Google Maps API",
-      "keywords": ["JavaScript", "React", "Redux", "Authentication", "Handlebars", "Mongo", "MySql", "Firebase", "API Integration", "Cheerio", "Express", "Gatsby", "Rest API"],
-      "link":""
-
-    },
-    {
-      "id": 2,
-      "name": "HomerClick",
-      "image": "/images/homer2.jpg",
-      "description": "React Click Game",
-      "keywords": ["JavaScript", "React"],
-      "link":""
-    },
-    {
-      "id": 3,
-      "name": "Friend Finder",
-      "image": "/images/homer3.jpg",
-      "description": "Survey App based on PHQ9",
-      "keywords": ["JavaScript", "Express"],
-      "link":""
-    },
-    {
-      "id": 4,
-      "name": "SCCA Chicago Web Scraper",
-      "image": "/images/homer4.jpg",
-      "description": "Node/Mongo Scraping tool for SCCA Chicago Events",
-      "keywords": ["Mongo", "Cheerio", "Node", "Express", "Handlebars"],
-      "link":""
-    },
-    {
-      "id": 5,
-      "name": "Bamazon",
-      "image": "/images/homer5.jpg",
-      "description": "Terminal Based E-Commerce Platform",
-      "keywords": ["JavaScript"],
-      "link":""
-    },
-    {
-      "id": 6,
-      "name": "WollyBully",
-      "image": "/images/homer6.jpg",
-      "description": "New Habit Forming app that bullies you into changing your ways",
-      "keywords": ["JavaScript", "Express", "MySql", "API Integration", "Rest API"],
-      "link":""
-    },
-    {
-      "id": 7,
-      "name": "LiriBot",
-      "image": "/images/homer7.jpg",
-      "description": "API Aggreator",
-      "keywords": ["JavaScript", "API Integration"],
-      "link":""
-    },
-    {
-      "id": 8,
-      "name": "Mindset",
-      "image": "/images/homer8.jpg",
-      "description": "Start your day with Mindset",
-      "keywords": ["JavaScript", "Firebase", "API Integration"],
-      "link":""
-    },
-    {
-      "id": 9,
-      "name": "TrainSchedule",
-      "image": "",
-      "description": "Time Table App to Manage your Train Schedules",
-      "keywords": ["JavaScript","Firebase"],
-      "link":""
-      
-    },
-    {
-      "id": 10,
-      "name": "gifTastic",
-      "image": "Gif Search",
-      "description": "Gif Search",
-      "keywords": [],
-      "link":""
-    },
-    {
-        "id": 11,
-        "name": "EvenSteven",
-        "image": "A Random Number game based on Jerry Seinfelds Innate Luck",
-        "description": "",
-        "keywords": [],
-        "link":""
-      }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Odyssey",
+    "image": "/images/homer1.jpg",
+    "description": "A MERN App w/ JSONWebtoken Authentication to Assist new Immigrants to Chicago: ReactJS, Redux, Unsplash, Google Maps API",
+    "keywords": [
+      "JavaScript",
+      "React",
+      "Redux",
+      "Authentication",
+      "Handlebars",
+      "Mongo",
+      "MySql",
+      "Firebase",
+      "API Integration",
+      "Cheerio",
+      "Express",
+      "Gatsby",
+      "Rest API"
+    ],
+    "link": "https://guarded-tundra-25826.herokuapp.com/"
+  },
+  {
+    "id": 2,
+    "name": "HomerClick",
+    "image": "/images/homer2.jpg",
+    "description": "React Click Game Staring the many Faces of Homer Simpson",
+    "keywords": ["JavaScript", "React"],
+    "link": "https://agile-mesa-33478.herokuapp.com/"
+  },
+  {
+    "id": 3,
+    "name": "Friend Finder",
+    "image": "/images/homer3.jpg",
+    "description": "Survey App based on PHQ9 to Match you with someone most similar",
+    "keywords": ["JavaScript", "Express"],
+    "link": "https://sm-friendfinder.herokuapp.com/"
+  },
+  {
+    "id": 4,
+    "name": "SCCA Chicago Web Scraper",
+    "image": "/images/homer4.jpg",
+    "description": "Node/Mongo Scraping tool for saving SCCA Chicago Events",
+    "keywords": ["Mongo", "Cheerio", "Node", "Express", "Handlebars"],
+    "link": "https://sm-scraper.herokuapp.com/"
+  },
+  {
+    "id": 5,
+    "name": "Bamazon",
+    "image": "/images/homer5.jpg",
+    "description": "Terminal Based E-Commerce Platform IE AS400 System",
+    "keywords": ["JavaScript"],
+    "link": "https://github.com/somemothersson/bamazon"
+  },
+  {
+    "id": 6,
+    "name": "WollyBully",
+    "image": "/images/homer6.jpg",
+    "description": "New Habit Forming app that Bullies you into changing your ways with texts and phone calls",
+    "keywords": [
+      "JavaScript",
+      "Express",
+      "MySql",
+      "API Integration",
+      "Rest API"
+    ],
+    "link": "https://agile-wildwood-70962.herokuapp.com/"
+  },
+  {
+    "id": 7,
+    "name": "LiriBot",
+    "image": "/images/homer7.jpg",
+    "description": "Command Line API Aggreator",
+    "keywords": ["JavaScript", "API Integration"],
+    "link": "https://github.com/somemothersson/liriBot"
+  },
+  {
+    "id": 8,
+    "name": "Mindset",
+    "image": "/images/homer8.jpg",
+    "description": "Start your day with Mindset",
+    "keywords": ["JavaScript", "Firebase", "API Integration"],
+    "link": "https://thebestteamever-duh.github.io/Project-0/"
+  },
+  {
+    "id": 9,
+    "name": "TrainSchedule",
+    "image": "",
+    "description": "Time Table App to Manage your Train Schedules",
+    "keywords": ["JavaScript", "Firebase"],
+    "link": "https://somemothersson.github.io/trainSchedule/"
+  },
+  {
+    "id": 10,
+    "name": "gifTastic",
+    "image": "Gif Search",
+    "description": "Gif Search tool, search and pause Gifs",
+    "keywords": ["JavaScript", "API Integration"],
+    "link": "https://somemothersson.github.io/gifTastic/"
+  },
+  {
+    "id": 11,
+    "name": "EvenSteven",
+    "image": "A Random Number game based on Jerry Seinfelds Innate Luck",
+    "description": "",
+    "keywords": ["JavaScript"],
+    "link": "https://somemothersson.github.io/Even-Steven/"
+  },
+  {
+    "id": 12,
+    "name": "Tangled Up In Code",
+    "image": "",
+    "description": "Le Coding Blog",
+    "keywords": ["Gatsby", "JavaScript", "React"],
+    "link": "http://www.tangledupincode.com"
+  }
+]
