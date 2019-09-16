@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Odyssey",
-    "image": "/images/homer1.jpg",
+    "image": "/assets/odyssey.png",
     "description": "A MERN App w/ JSONWebtoken Authentication to Assist new Immigrants to Chicago: ReactJS, Redux, Unsplash, Google Maps API",
     "keywords": [
       "JavaScript",
@@ -24,7 +24,7 @@
   {
     "id": 2,
     "name": "HomerClick",
-    "image": "/images/homer2.jpg",
+    "image": "/assets/homerClick.png",
     "description": "React Click Game Staring the many Faces of Homer Simpson",
     "keywords": ["JavaScript", "React"],
     "link": "https://agile-mesa-33478.herokuapp.com/"
@@ -32,7 +32,7 @@
   {
     "id": 3,
     "name": "Friend Finder",
-    "image": "/images/homer3.jpg",
+    "image": "/assets/friendFinder.png",
     "description": "Survey App based on PHQ9 to Match you with someone most similar",
     "keywords": ["JavaScript", "Express"],
     "link": "https://sm-friendfinder.herokuapp.com/"
@@ -40,7 +40,7 @@
   {
     "id": 4,
     "name": "SCCA Chicago Web Scraper",
-    "image": "/images/homer4.jpg",
+    "image": "/assets/webScraper.png",
     "description": "Node/Mongo Scraping tool for saving SCCA Chicago Events",
     "keywords": ["Mongo", "Cheerio", "Node", "Express", "Handlebars"],
     "link": "https://sm-scraper.herokuapp.com/"
@@ -48,7 +48,7 @@
   {
     "id": 5,
     "name": "Bamazon",
-    "image": "/images/homer5.jpg",
+    "image": "",
     "description": "Terminal Based E-Commerce Platform IE AS400 System",
     "keywords": ["JavaScript"],
     "link": "https://github.com/somemothersson/bamazon"
@@ -56,7 +56,7 @@
   {
     "id": 6,
     "name": "WollyBully",
-    "image": "/images/homer6.jpg",
+    "image": "/assets/wollyBully.png",
     "description": "New Habit Forming app that Bullies you into changing your ways with texts and phone calls",
     "keywords": [
       "JavaScript",
@@ -70,7 +70,7 @@
   {
     "id": 7,
     "name": "LiriBot",
-    "image": "/images/homer7.jpg",
+    "image": "",
     "description": "Command Line API Aggreator",
     "keywords": ["JavaScript", "API Integration"],
     "link": "https://github.com/somemothersson/liriBot"
@@ -78,7 +78,7 @@
   {
     "id": 8,
     "name": "Mindset",
-    "image": "/images/homer8.jpg",
+    "image": "/assets/mindset.png",
     "description": "Start your day with Mindset",
     "keywords": ["JavaScript", "Firebase", "API Integration"],
     "link": "https://thebestteamever-duh.github.io/Project-0/"
@@ -86,7 +86,7 @@
   {
     "id": 9,
     "name": "TrainSchedule",
-    "image": "",
+    "image": "/assets/trainSchedule.png",
     "description": "Time Table App to Manage your Train Schedules",
     "keywords": ["JavaScript", "Firebase"],
     "link": "https://somemothersson.github.io/trainSchedule/"
@@ -94,7 +94,7 @@
   {
     "id": 10,
     "name": "gifTastic",
-    "image": "Gif Search",
+    "image": "/assets/gifTastic.png",
     "description": "Gif Search tool, search and pause Gifs",
     "keywords": ["JavaScript", "API Integration"],
     "link": "https://somemothersson.github.io/gifTastic/"
@@ -103,14 +103,14 @@
     "id": 11,
     "name": "EvenSteven",
     "image": "A Random Number game based on Jerry Seinfelds Innate Luck",
-    "description": "",
+    "description": "/assets/evenSteven.png",
     "keywords": ["JavaScript"],
     "link": "https://somemothersson.github.io/Even-Steven/"
   },
   {
     "id": 12,
     "name": "Tangled Up In Code",
-    "image": "",
+    "image": "/assets/tangeldUpInCode.png",
     "description": "Le Coding Blog",
     "keywords": ["Gatsby", "JavaScript", "React"],
     "link": "http://www.tangledupincode.com"
