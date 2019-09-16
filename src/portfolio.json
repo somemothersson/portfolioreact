@@ -1,51 +1,93 @@
 [
     {
       "id": 1,
-      "name": "homer1",
+      "name": "Odyssey",
       "image": "/images/homer1.jpg",
-      "description": "test",
-      "keywords": ["JavaScript", "React", "Redux", "Authentication", "Handlebars", "Mongo", "MySql", "Firebase", "API Integration", "Cheerio", "Express", "Gatsby", "Rest API"]
+      "description": "A MERN App w/ JSONWebtoken Authentication to Assist new Immigrants to Chicago: ReactJS, Redux, Unsplash, Google Maps API",
+      "keywords": ["JavaScript", "React", "Redux", "Authentication", "Handlebars", "Mongo", "MySql", "Firebase", "API Integration", "Cheerio", "Express", "Gatsby", "Rest API"],
+      "link":""
 
     },
     {
       "id": 2,
-      "name": "homer2",
-      "image": "/images/homer2.jpg"
+      "name": "HomerClick",
+      "image": "/images/homer2.jpg",
+      "description": "React Click Game",
+      "keywords": ["JavaScript", "React"],
+      "link":""
     },
     {
       "id": 3,
-      "name": "homer3",
-      "image": "/images/homer3.jpg"
+      "name": "Friend Finder",
+      "image": "/images/homer3.jpg",
+      "description": "Survey App based on PHQ9",
+      "keywords": ["JavaScript", "Express"],
+      "link":""
     },
     {
       "id": 4,
-      "name": "homer4",
-      "image": "/images/homer4.jpg"
+      "name": "SCCA Chicago Web Scraper",
+      "image": "/images/homer4.jpg",
+      "description": "Node/Mongo Scraping tool for SCCA Chicago Events",
+      "keywords": ["Mongo", "Cheerio", "Node", "Express", "Handlebars"],
+      "link":""
     },
     {
       "id": 5,
-      "name": "homer5",
-      "image": "/images/homer5.jpg"
+      "name": "Bamazon",
+      "image": "/images/homer5.jpg",
+      "description": "Terminal Based E-Commerce Platform",
+      "keywords": ["JavaScript"],
+      "link":""
     },
     {
       "id": 6,
-      "name": "homer6",
-      "image": "/images/homer6.jpg"
+      "name": "WollyBully",
+      "image": "/images/homer6.jpg",
+      "description": "New Habit Forming app that bullies you into changing your ways",
+      "keywords": ["JavaScript", "Express", "MySql", "API Integration", "Rest API"],
+      "link":""
     },
     {
       "id": 7,
-      "name": "homer7",
-      "image": "/images/homer7.jpg"
+      "name": "LiriBot",
+      "image": "/images/homer7.jpg",
+      "description": "API Aggreator",
+      "keywords": ["JavaScript", "API Integration"],
+      "link":""
     },
     {
       "id": 8,
-      "name": "homer8",
-      "image": "/images/homer8.jpg"
+      "name": "Mindset",
+      "image": "/images/homer8.jpg",
+      "description": "Start your day with Mindset",
+      "keywords": ["JavaScript", "Firebase", "API Integration"],
+      "link":""
     },
     {
       "id": 9,
-      "name": "homer9",
-      "image": "/images/homer9.jpg"
-    }
+      "name": "TrainSchedule",
+      "image": "",
+      "description": "Time Table App to Manage your Train Schedules",
+      "keywords": ["JavaScript","Firebase"],
+      "link":""
+      
+    },
+    {
+      "id": 10,
+      "name": "gifTastic",
+      "image": "Gif Search",
+      "description": "Gif Search",
+      "keywords": [],
+      "link":""
+    },
+    {
+        "id": 11,
+        "name": "EvenSteven",
+        "image": "A Random Number game based on Jerry Seinfelds Innate Luck",
+        "description": "",
+        "keywords": [],
+        "link":""
+      }
   ]
   
